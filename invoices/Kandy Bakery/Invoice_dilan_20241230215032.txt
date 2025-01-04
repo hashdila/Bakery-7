@@ -1,5 +1,0 @@
-Invoice for dilan
-Item: Bun
-Quantity: 10
-Total Price: 320.00
-Date: 2024-12-30 21:50:32

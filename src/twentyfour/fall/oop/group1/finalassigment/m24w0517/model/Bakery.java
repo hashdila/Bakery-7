@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Bakery {
     private String name;
-    private List<Inventory> inventory; // This will store the bakery's inventory
+    private List<Inventory> inventory;  //  store the bakery's inventory
 
     // Constructor to initialize bakery name and empty inventory list
     public Bakery(String name) {
@@ -27,5 +27,5 @@ public class Bakery {
         this.inventory = inventory;
     }
 
-    // You can also add more methods to manipulate the inventory list if necessary
+
 }

@@ -28,10 +28,7 @@ public class Inventory {
         return price;
     }
 
-    // Optional method to increase stock
-    public void increaseQuantity(int additionalQuantity) {
-        this.quantity += additionalQuantity;
-    }
+
 
     public void setPrice(double price) {
         this.price = price; // Correctly updates the price field

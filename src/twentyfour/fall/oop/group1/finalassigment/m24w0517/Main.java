@@ -172,6 +172,7 @@ public class Main {
                     bakeryService.addItem(bakery, name, quantity, price, branchName);
                     break;
                 case 2:
+                    bakeryService.displayInventory(bakery);
                     System.out.print("Enter item name to update: ");
                     String updateName = scanner.next();
                     System.out.print("Enter new quantity: ");
@@ -181,6 +182,7 @@ public class Main {
                     bakeryService.updateItem(bakery, updateName, newQuantity, newPrice, branchName);
                     break;
                 case 3:
+                    bakeryService.displayInventory(bakery);
                     System.out.print("Enter item name to delete: ");
                     String deleteName = scanner.next();
                     bakeryService.deleteItem(bakery, deleteName, branchName);
