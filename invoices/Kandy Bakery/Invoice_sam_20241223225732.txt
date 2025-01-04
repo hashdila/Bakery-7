@@ -1,0 +1,5 @@
+Invoice for sam
+Item: ssss
+Quantity: 3
+Total Price: 69.00
+Date: 2024-12-23 22:57:32

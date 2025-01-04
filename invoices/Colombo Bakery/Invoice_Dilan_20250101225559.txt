@@ -1,0 +1,5 @@
+Invoice for Dilan
+Item: Bun
+Quantity: 3
+Total Price: 720.00
+Date: 2025-01-01 22:55:59

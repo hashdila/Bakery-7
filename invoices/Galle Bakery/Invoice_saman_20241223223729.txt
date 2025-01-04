@@ -1,0 +1,5 @@
+Invoice for saman
+Item: sun
+Quantity: 2
+Total Price: 60.00
+Date: 2024-12-23 22:37:29

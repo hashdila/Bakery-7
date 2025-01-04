@@ -1,0 +1,5 @@
+Invoice for Bun
+Item: Bun
+Quantity: 20
+Total Price: 640.00
+Date: 2024-12-30 22:43:33
